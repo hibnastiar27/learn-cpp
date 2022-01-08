@@ -15,12 +15,12 @@ int main()
 {
 	//	tempat kode blok ditulis
 	int x;
-	cout << "GOKIL \n"; // cout digunakan untuk mencetak/menampilkan sesuatu di layar(variabel, fungsi, dan juga kalimat sederhana)
+	cout << "GOKIL \n"; // cout digunakan untuk mencetak / menampilkan sesuatu di layar(variabel, fungsi, dan juga kalimat sederhana)
 	cout << "Masukan Angka Favoritmu : ";
 	cin >> x;
 	cout << "Cetak Phi " << phi << endl;
 	cout << "Cetak y " << y;
-	cout << "Penambahan " << y+10;
+	cout << "Penambahan " << y+10*12;
 	return 0; // digunakan untuk mengakhiri fungsi main.
 }
 
