@@ -12,17 +12,17 @@ int main()
 			float, bilangan koma koma an ~7 digit
 			double, bilangan koma koma an ~15 digit
 		Penulisan:
-			int nama_variabel = nilai ; 
+			int nama_variabel = nilai ;
 	*/
-	
+
 	char karakter = 'A';
 	int panjang = 2;
 	int lebar = 4;
 	float phi;
 	bool a;
-	
+
 	int luas;
-	luas=panjang * lebar;
-	cout<<panjang<<" x "<<lebar<<" = "<<luas;
+	luas = panjang * lebar;
+	cout << panjang << " x " << lebar << " = " << luas;
 	return 0;
 }
